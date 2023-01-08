@@ -46,3 +46,6 @@ The images below give a snapshot of the processes that took place in the steps a
 ![hvplot](https://user-images.githubusercontent.com/108758105/211186094-4f503191-5535-4f2f-9c17-3f4be81666ca.png)
 
 
+# Summary
+
+The above is a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system.
