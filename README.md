@@ -36,4 +36,6 @@ The images below give a snapshot of the processes that took place in the steps a
 > 3D scatter plot using the Plotly Express to plot the three clusters from the clustered dataframe
 ![scatter_plot](https://user-images.githubusercontent.com/108758105/211185900-97f30dcd-ad44-4956-ac95-941f1abc5c12.png)
 
+> Table with tradeable cryptocurrencies
+![ccTable](https://user-images.githubusercontent.com/108758105/211185950-f8f4caf2-c007-4d03-8ec4-19ce32afb173.png)
 
