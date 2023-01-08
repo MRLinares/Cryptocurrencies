@@ -24,6 +24,10 @@ The images below give a snapshot of the processes that took place in the steps a
 > Chart showing result of three principal components from Principal Component Analysis
 ![3pc](https://user-images.githubusercontent.com/108758105/211185387-f0b73478-c490-4bd2-8549-3a61599e6327.png)
 
+> Clustered dataframe
+![clustered_df](https://user-images.githubusercontent.com/108758105/211185720-cf838600-9081-4509-a513-1df4c5394c7c.png)
+
+
 > Elbow curve showing optimal dimensions
 ![elbow_curve](https://user-images.githubusercontent.com/108758105/211185352-dc196f97-1d35-49ea-989f-c7be3948b054.png)
 
