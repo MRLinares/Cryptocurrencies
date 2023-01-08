@@ -31,5 +31,9 @@ The images below give a snapshot of the processes that took place in the steps a
 ![prediction](https://user-images.githubusercontent.com/108758105/211185785-cbd36da6-2074-4021-bb74-4216bbc27e29.png)
 
 > Clustered dataframe snapshot 
-> ![clustered_df](https://user-images.githubusercontent.com/108758105/211185720-cf838600-9081-4509-a513-1df4c5394c7c.png)
+![clustered_df](https://user-images.githubusercontent.com/108758105/211185720-cf838600-9081-4509-a513-1df4c5394c7c.png)
+
+> 3D scatter plot using the Plotly Express to plot the three clusters from the clustered dataframe
+![scatter_plot](https://user-images.githubusercontent.com/108758105/211185900-97f30dcd-ad44-4956-ac95-941f1abc5c12.png)
+
 
