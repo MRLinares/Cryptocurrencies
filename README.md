@@ -39,5 +39,10 @@ The images below give a snapshot of the processes that took place in the steps a
 > Table with tradeable cryptocurrencies
 ![ccTable](https://user-images.githubusercontent.com/108758105/211185950-f8f4caf2-c007-4d03-8ec4-19ce32afb173.png)
 
-> Total tradeable cryptocurrencies
+> Code showing total tradeable cryptocurrencies
 ![total_tradeable_cc](https://user-images.githubusercontent.com/108758105/211185989-3d0dcca9-d723-4381-87e6-24d3deb41242.png)
+
+> Scatter plot showing TotalCoinsMined vs TotalCoinSupply by Class
+![hvplot](https://user-images.githubusercontent.com/108758105/211186094-4f503191-5535-4f2f-9c17-3f4be81666ca.png)
+
+
